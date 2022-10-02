@@ -11,5 +11,5 @@ int main(int argc, const char * argv[]) {
   // insert code here...
   printf("Hello, World!  murata\n　　commit+push!");
   return 0;
-  // 動けうごけ1SSHSSHSSHSSH
+  // 動けうごけ1SSHSSHSSHSSH SSHSSH
 }
