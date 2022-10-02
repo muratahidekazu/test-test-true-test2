@@ -9,6 +9,6 @@
 
 int main(int argc, const char * argv[]) {
   // insert code here...
-  printf("Hello, World!  murata\n");
+  printf("Hello, World!  murata\n　　ほほほcommit+push!");
   return 0;
 }
