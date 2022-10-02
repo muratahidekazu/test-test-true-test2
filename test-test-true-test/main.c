@@ -15,4 +15,5 @@ int main(int argc, const char * argv[]) {
   // 家からだったらあっさりpushできたぞ！これがその証拠だ
   // 家からpush
   // 家からpush 10/3 8:24
+  // これは研究室からpush 10/3 8:55
 }
