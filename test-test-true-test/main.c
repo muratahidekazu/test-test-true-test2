@@ -22,5 +22,6 @@ int main(int argc, const char * argv[]) {
   // これも，labからコマンドラインでpushです．
   // koremo です．git config --unset --global url."https://".insteadOf git://  OK　コマンドラインからcommit できた（Xcodeではだめ）
   // http,https proxy設定 git --unset で消した
-  // xcodebuild -resolvePackageDependencies -scmProvider system やってみたのがこれ．まずはxcodeから
+  // xcodebuild -resolvePackageDependencies -scmProvider system やってみたのがこれ．まずはxcodeからはだめ．で，proxy設定すると．
+  // 再度．
 }
