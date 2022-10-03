@@ -20,4 +20,5 @@ int main(int argc, const char * argv[]) {
   // all-tokenn のはず
   // はい，これがlabからコマンドラインでのpushです
   // これも，labからコマンドラインでpushです．
+  // koremo です．git config --unset --global url."https://".insteadOf git://
 }
