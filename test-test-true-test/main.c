@@ -18,4 +18,5 @@ int main(int argc, const char * argv[]) {
   // これは研究室からpush 10/3 8:55]
   // from lab この行が最後ならね
   // all-tokenn のはず
+  // はい，これがlabからコマンドラインでのpushです
 }
