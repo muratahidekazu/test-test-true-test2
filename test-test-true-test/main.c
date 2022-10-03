@@ -17,4 +17,5 @@ int main(int argc, const char * argv[]) {
   // 家からpush 10/3 8:24
   // これは研究室からpush 10/3 8:55]
   // from lab この行が最後ならね
+  // new-tokenn のはず
 }
