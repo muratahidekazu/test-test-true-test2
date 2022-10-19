@@ -16,15 +16,6 @@ typedef struct {
 void matrixmultiply( Matrix *, Matrix *, Matrix *);
 void print( Matrix *);
 
-
-
-
-
-
-
-
-
-
 //////////////////////////////////////////////////////// 以下，お大熊さん
 
 Matrix matrix, matrix1, matrix2;
@@ -39,20 +30,6 @@ for ( int irow = 0 ; irow < matrix.nrow ; irow++ ){
     matrix.element[ irow * matrix.ncol + icol ] = ( irow == icol ) ? 1.0 : 0.0; // if文でももちろんOK
   }
 }
-//////////////////////////////////////////////// 以下，神田さん
-
-
-
-
-
-
-
-
-
-
-
-
-
   //////////////////////////////////////////////// 以下，神田さん
 // matrix1 に任意の (nrow1, ncol1) の行列を作る
 for (int i = 0; i < matrix1.nrow * matrix1.ncol ; i++ ) {
