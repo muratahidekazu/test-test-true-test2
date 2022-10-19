@@ -17,7 +17,7 @@ void matrixmultiply( Matrix *, Matrix *, Matrix *);
 void print( Matrix *);
 
 //////////////////////////////////////////////////////// 以下，お大熊さん
-
+int main(int argc, const char * argv[]) {
 Matrix matrix, matrix1, matrix2;
 matrix.nrow=10; matrix.ncol=10;
 matrix1.nrow=10; matrix1.ncol=5;
